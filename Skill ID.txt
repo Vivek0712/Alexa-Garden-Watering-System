@@ -1,7 +1,1 @@
-AWS LAMBDA :
 
-arn:aws:lambda:us-east-1:014001222147:function:water_plants
-
-Alexa Skill ID :
-
-amzn1.ask.skill.d8a53459-0c78-4219-9ab9-727b44e8c921
